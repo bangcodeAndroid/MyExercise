@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "806131076501",
+    "firebase_url": "https://fir-notification-9998a.firebaseio.com",
+    "project_id": "fir-notification-9998a",
+    "storage_bucket": "fir-notification-9998a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806131076501:android:754219a787e4cc18",
+        "android_client_info": {
+          "package_name": "com.project.bangcode.myexercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806131076501-baub5jsudj13k187bkdgk4qvnqoekc9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqG9zzlVgmFSpAyBwxVGs0kBxfCKZ1PU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
